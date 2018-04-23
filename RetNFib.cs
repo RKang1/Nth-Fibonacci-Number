@@ -1,4 +1,4 @@
-public int retNFib(int input)
+public int RetNFib(int input)
 {
 	int seq;
 
